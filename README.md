@@ -12,7 +12,9 @@
 ## Technology
   Python 3 was the language used similar to the previous project for the use of "pandas' and 'matplotlib' libraries to process, merge, and visualize data easily. All the files and contents were edited on an online web application, [Juypter Notebook](https://jupyter.org/).
   Documentation of previously mentioned libraries, pandas and matplotlib, can be found below:
+  
       [pandas 0.25.0 documentation](https://pandas.pydata.org/pandas-docs/stable/)
+      
       [matplotlib 3.1.1 documentation](https://matplotlib.org/3.1.1/contents.html)
 ## Data Analysis
 ![line_graph_1](https://github.com/jeed123456789/data_science_project2/blob/master/graphs/line_graph_1.png)
