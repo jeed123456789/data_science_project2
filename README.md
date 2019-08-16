@@ -1,8 +1,6 @@
 ## Project description 
   The aim in this project was to find the correlation between various life factors to life expectnacy. I expected that GDP would have one   of the strongest correlation with life expectancy.
-  Prior to settling with this topic, I had been looking around a topic concerning suicide rates and the happiness level. Even though I     
-  could find data regarding the two topics, I was unable to find a way to express the correlation or causation that could be found by
-  comparing the two datasets. Luckily, I was able to stumble into this topic and reach to a fair conclusion using the data I found.
+  Prior to settling with this topic, I had been looking around a topic concerning suicide rates and the happiness level. Even though I  could find data regarding the two topics, I was unable to find a way to express the correlation or causation that could be found by comparing the two datasets. Luckily, I was able to stumble into this topic and reach to a fair conclusion using the data I found.
 
 ## Data description
   The data was found in a well-known data community site called [Kaggle](https://www.kaggle.com/).
